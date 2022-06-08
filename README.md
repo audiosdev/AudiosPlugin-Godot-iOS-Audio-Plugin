@@ -1,5 +1,5 @@
 # Godot-iOS-Audio-Plugin (AudiosPlugin)
-Godot engine cannot record audio in iOS devices, that is a known bug.This plugin solves the Godot audio recording issue and playback issue in iOS devices. Please open the Audios Plugin XCode Project. Compile.
+This plugin solves the Godot audio recording issue and playback issue in iOS devices. Please open the Audios Plugin XCode Project and compile the project. You can also use the libaudios_plugin.a binary in your project.
 
 # Easy Integration Steps
 1) Unzip the Godot.zip file to Godot folder for Godot's header files. You can generate the latest Godot header files. See Getting Godot engine headers below.
