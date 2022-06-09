@@ -47,7 +47,8 @@ if audiosPlugin != null:
     bool isRecording() : Check if recording audio
     void playAudio()   : Play the recorded audio
     void stopAudio()   : Stop recording and playing
-    void setTempo(float val) : Set tempo of the recording while playing. 1.0 is the original tempo. 2.0 is 2x. 0.5 is 1/2x. The tempo change also changes pitch.
+    void setTempo(float val) : Set tempo of the recording while playing. 
+    1.0 is the original tempo. 2.0 is 2x. 0.5 is 1/2x. The tempo also changes pitch.
     
 
 # Godot iOS Audio Plugin Advanced Setup
