@@ -50,13 +50,7 @@ if audiosPlugin != null:
     void setTempo(float val) : Set tempo of the recording while playing. 1.0 is the original tempo. 2.0 is 2x. 0.5 is 1/2x. The tempo change also changes pitch.
     
 
-
-# Please Donate
-I developed an iOS Audio Godot plugin to resolve the audio recording issue in iOS devices for your use. You can freely use this plugin source code in your project with MIT License. Please support me by donating:
-
-[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PDP2QX8JWDL7A)
-
-# Godot iOS Audio Plugin
+# Godot iOS Audio Plugin Advanced Setup
 This repo contains a Xcode and SCons configuration to build an Godot Audio plugin for iOS.
 Xcode project and Scons configuration allows to build static `.a` library, that could be used with `.gdip` file as Godot's plugin to include platform functionality into exported application.
 
@@ -76,7 +70,11 @@ Running `scons platform=ios arch=<arch> target=<release|debug|release_debug> tar
 Compiling for multiple archs and using `lipo -create .. -output ..` might be required for release builds.
 
 # Please see my website and apps:
-I develop Android, iOS and Windows applications. Please see my website:
+I develop Android, iOS and Windows applications. Please see my website: https://www.audiosdroid.com
 
 [![audiosdroid.com](https://static.wixstatic.com/media/f49253_d1eb5b5d494e41498ba9fde1e1feda20~mv2.png/v1/fill/w_191,h_109,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/audios_colored2_1_alpha512.png)](https://www.audiosdroid.com)
 
+# Please Donate
+I developed an iOS Audio Godot plugin to resolve the audio recording issue in iOS devices for your use. You can freely use this plugin source code in your project with MIT License. Please support me by donating:
+
+[![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PDP2QX8JWDL7A)
