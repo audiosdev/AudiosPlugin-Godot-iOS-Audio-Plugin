@@ -75,7 +75,7 @@ I develop Android, iOS and Windows applications. Please see my website: https://
 
 [![audiosdroid.com](https://static.wixstatic.com/media/f49253_d1eb5b5d494e41498ba9fde1e1feda20~mv2.png/v1/fill/w_191,h_109,al_c,q_85,usm_0.66_1.00_0.01,enc_auto/audios_colored2_1_alpha512.png)](https://www.audiosdroid.com)
 
-# Please Donate
+# Sponsorship
 I developed an iOS Audio Godot plugin to resolve the audio recording issue in iOS devices for your use. You can freely use this plugin source code in your project with MIT License. Please support me by donating:
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PDP2QX8JWDL7A)
