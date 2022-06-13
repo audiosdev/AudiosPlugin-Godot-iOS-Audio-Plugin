@@ -36,7 +36,7 @@ if audiosPlugin != null:
   audiosPlugin.playAudio()
 
 ```
-7) Disable "Enable Audio Input" from project settings in order to prevent runtime crash (Project->Project Settings->Audio). This plugin gets the microphone permission itself.
+7) Disable "Enable Audio Input" from Godot project settings (Project->Project Settings->Audio) in order to prevent runtime crash. This plugin gets the microphone permission itself.
 8) Enable the iOS Godot Plugin when exporting the project and PCK file from "Project->Export" menu
 
 # Methods
