@@ -11,8 +11,8 @@ This plugin solves the Godot game engine audio recording and playback issue in i
 var audiosPlugin = null
 
 func _ready():
-if Engine.has_singleton("Audiosplugin"):
-		audiosPlugin = Engine.get_singleton("Audiosplugin")
+if Engine.has_singleton("AudiosPlugin"):
+		audiosPlugin = Engine.get_singleton("AudiosPlugin")
 		var ret = audiosPlugin.init()
 		print("iOS plugin is available %d", ret)
 	else:
