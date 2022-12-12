@@ -80,4 +80,4 @@ I developed an iOS Audio Godot plugin to resolve the audio recording issue in iO
 
 [![paypal](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/donate/?hosted_button_id=PDP2QX8JWDL7A)
 
-This project is tested with [BrowserStack]: https://email.browserstack.com/c/eJwdjTuuwyAURFdjOiz-kILiNW8bEZ97BYodO4Dl7QdFmmqOZg54bixzWljpSPY66mxJ9UY-rGSOK4zxKQQXIQYEzlNEJx5C57D2muFVPxQbfC54D4qZnke-OoQ-ON1DfUsatwuoySonZ5VG2vs52qIYTLytc9pLhv5a07GT4pEFKUUOzEiNLiihrWGAIHVyXJhINl_GOPsi_xbxP3Pf9xrbcXdofYT0-5k1aR7DqGV3errKMX62yb4wr0un
+This project is tested with [BrowserStack](https://email.browserstack.com/c/eJwdjTuuwyAURFdjOiz-kILiNW8bEZ97BYodO4Dl7QdFmmqOZg54bixzWljpSPY66mxJ9UY-rGSOK4zxKQQXIQYEzlNEJx5C57D2muFVPxQbfC54D4qZnke-OoQ-ON1DfUsatwuoySonZ5VG2vs52qIYTLytc9pLhv5a07GT4pEFKUUOzEiNLiihrWGAIHVyXJhINl_GOPsi_xbxP3Pf9xrbcXdofYT0-5k1aR7DqGV3errKMX62yb4wr0un)
